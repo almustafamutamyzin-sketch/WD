@@ -1,0 +1,6 @@
+{
+  "name": "فيديو نشيد مدرسة الود الأساسية الدولية",
+  "description": "فيديو كليب كورال تلاميذ مدرسة الود الأساسية الأهلية ذات المعايير الدولية - بالود نبني وبالعلم نسمو",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
